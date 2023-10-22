@@ -61,3 +61,8 @@
 .titlebar-spacer[type="post-tabs"] {
   width: 12px !important;
 }
+
+/* Remove extra padding from bookmarks toolbar... */
+#PersonalToolbar {
+  margin-top: -1px !important;
+}
